@@ -1,0 +1,9 @@
+{"DEFAULT_BUFFER_SIZE": 60000,
+"MINIMUM_DATUMS_TO_STORE": 100,
+"DEFAULT_STAT_CALC_SIZE": 1000,
+"DEFAULT_EWMA_ALPHA": 0.01,
+"TIME_FACTOR": 1000000,
+"TRIGGER_OUTPUT_DIR": "output/",
+"TRIGGER_OUTPUT_INDIVIDUAL_FILE_DIR":  "output/individual_files/",
+"TRIGGER_OUTPUT_COMBINED_FILE_NAME": "triggers_output.txt",
+"TEST_FILE_WRITER_LOCATION": "C:\\Users\\jonat\\OneDrive\\Desktop\\Temp\\Data_Runs\\random_data.txt"}
